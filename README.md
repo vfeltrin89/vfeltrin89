@@ -1,4 +1,4 @@
-## Vinicius Feltrin
+## :wave: Hi there, welcome to my profile!
 
 "Studying to become a **`software developer`**"
 
