@@ -15,6 +15,6 @@ Here are some I'm doing at the moment:
 - 🌱 I’m currently studying [CS50](https://cs50.harvard.edu/) at HarvardX
 - 🤔 I’m looking for help with programming logic, algorithms...
 
-I'm passionate about playing :drum:, drinking :beer:,:coffee: and as a good italian, eating :pizza:
+I'm passionate about :airplane:, playing :drum:, drinking :beer:,:coffee: and as a good italian, eating :pizza:
 
 :european_post_office: Where you can find me: [Linkedin](https://www.linkedin.com/in/vfeltrin/), [Instagram](https://www.instagram.com/vinifeltrin)
