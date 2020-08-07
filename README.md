@@ -12,6 +12,7 @@ English enthusiast and Tech-savvy Information Technology professional with 5 yea
 Here are some I'm doing at the moment:
 
 - 🔭 I’m currently working on my career transition (**`IT SUPPORT`** to **`SOFTWARE DEVELOPMENT`**)
+- 🚀 Would like to see which projects am I working on? [Click here!](https://github.com/vfeltrin89?tab=projects)
 - 🌱 I’m currently studying [CS50](https://cs50.harvard.edu/) at HarvardX
 - 🤔 I’m looking for help with programming logic, algorithms...
 
